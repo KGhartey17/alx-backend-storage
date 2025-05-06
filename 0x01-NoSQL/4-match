@@ -1,2 +1,2 @@
-#!/usr/bin/env mongo
+// Lists all matches
 db.school.find({ name: "ALX" })
